@@ -1,6 +1,6 @@
 ## 本專案的目標
 1. 讓失業者能更輕鬆找到工作
-2. 符合聯合國SDGs 1終結貧窮、8合適的工作和經濟成長。
+2. 符合聯合國SDGs 1終結貧窮、4優質教育、8合適的工作和經濟成長。
 
 ## 本專案的預計使用流程
 1. 首先讓使用者做性向測驗（網路上有很多範本）
@@ -12,7 +12,7 @@
 # English
 ## Our goals
 1. Make finding jobs for unemployed people easier.
-2. Suits UN SDGs 1(No poverty) 8(Decent work and economic growth)
+2. Suits UN SDGs 1(No poverty) 4(Quality education) 8(Decent work and economic growth)
 
 ## Use steps of this project
 1. First, let the user take an aptitude test (There are many examples on the internet)
